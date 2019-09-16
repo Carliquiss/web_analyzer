@@ -12,8 +12,8 @@ from argparse import ArgumentParser
 
 init(autoreset=True) # Para que los colores se reseten tras un print
 
-PATH_LOCALES = "./URLS_locales"
-PATH_EXTERNAS = "./URLS_externas"
+PATH_LOCALES = "./URLS_locals"
+PATH_EXTERNAS = "./URLS_externals"
 NIVEL_PROFUNDIDAD = 100 # Con qué nivel de profundidad se quiere escanear, más profundidad más tarda
 
 

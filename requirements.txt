@@ -3,3 +3,5 @@ colorama
 argparse
 bs4
 PyExifTool
+glob2
+parsel
